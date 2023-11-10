@@ -1,3 +1,5 @@
+#将raw格式的灰度转为jpg格式
+
 import sys
 from PIL import Image
 
