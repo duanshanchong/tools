@@ -1,4 +1,4 @@
-#将raw格式的灰度转为jpg格式
+#将相机raw格式的灰度图转为jpg格式
 
 import sys
 from PIL import Image
